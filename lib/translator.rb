@@ -39,4 +39,9 @@ class Translator
                     "0" => "-----",
                     " " => " "}
   end
+
+  def eng_to_morse(word_we_want_to_convert)
+    
+
+  end
 end
